@@ -5,7 +5,7 @@ javascript:(function(_0xa8c36,_0x196da2){function _0x317e56(_0x459869,_0x5625c8,
     element.style = `font-family: "Nunito", sans-serif; font-size: 14px; height: 65px; width: 175px; border: 4px solid rgb(15, 15, 15); background: rgb(240, 240, 240); position: absolute; top: 20x; left: 20px; border-radius: 10px; color: rgb(0, 0, 0); text-align: center;`;
     element.innerHTML = `<p>Created by Packmaster <br> Contact me from my <a style="color: #0000ff;" href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKBzzwcjnTMSMsllLDDkhhzRrwKcbGjhcvlMHGpksRlSBfPtgFTwFNdrqpdDRzZzbMXxjqB" target="_blank">email.</a></p>`;
     document.body.appendChild(element);
-	console.log('This cheat is obfuscated to prevent redistribution. Please do not redistribute.')
+	console.log('This cheat was made from various other developers, please do not redistribute.')
     
     var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
     element.onmousedown = ((e = window.event) => {
